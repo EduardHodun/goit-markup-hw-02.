@@ -15,9 +15,10 @@ body {
   background-color: #ffffff;
   color: var(--primary-text-color);
 
-  font-family: "Raleway", "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
+/* "Raleway",  */
 .list {
   list-style: none;
 }
@@ -27,7 +28,6 @@ body {
 }
 
 .btn {
-  font-family: Roboto;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -104,7 +104,6 @@ body {
 }
 
 .nav-menu-link {
-  font-family: Roboto;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -124,7 +123,6 @@ body {
 }
 
 .header-mail {
-  font-family: Roboto;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -140,7 +138,6 @@ body {
 }
 
 .header-tel {
-  font-family: Roboto;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -161,7 +158,6 @@ body {
   background-color: #2f303a;
 }
 .hero-title {
-  font-family: Roboto;
   font-style: normal;
   font-weight: 900;
   font-size: 44px;
@@ -177,7 +173,6 @@ body {
 
 /* Features */
 .features-title {
-  font-family: Roboto;
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
@@ -189,7 +184,6 @@ body {
 }
 
 .features-subtitle {
-  font-family: Roboto;
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -201,7 +195,6 @@ body {
 }
 
 .features-text {
-  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -216,7 +209,6 @@ body {
 /* Jobs */
 
 .jobs-title {
-  font-family: Roboto;
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
@@ -229,7 +221,6 @@ body {
 
 /* team */
 .team-title {
-  font-family: Roboto;
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
@@ -241,7 +232,6 @@ body {
 }
 
 .team-subtitle {
-  font-family: Roboto;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -255,7 +245,6 @@ body {
 }
 
 .team-text {
-  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -284,7 +273,6 @@ body {
 }
 
 .footer-address-text {
-  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -297,7 +285,6 @@ body {
 }
 
 .footer-mail {
-  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -310,7 +297,6 @@ body {
 }
 
 .footer-tel {
-  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -325,7 +311,6 @@ body {
 /* PORTFOLIO */
 
 .portfolio-btn {
-  font-family: Roboto;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -335,12 +320,11 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
 
-  color: var(--btn-color);
+  color: var(--title-text-color);
   background: #f5f4fa;
 }
 
 .portfolio-btn-filter:active {
-  font-family: Roboto;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -365,7 +349,6 @@ body {
 /* works list */
 
 .potfolio-works-subtitle {
-  font-family: Roboto;
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -377,7 +360,6 @@ body {
   color: #212121;
 }
 .potfolio-works-text {
-  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
