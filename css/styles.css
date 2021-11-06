@@ -86,18 +86,17 @@ bg-тёмно серый---2F303A
 синий---2196F3
 чёрный--000000
  /* --logo-first-color: #2196f3; */
-*/
 
 /* HEADER */
 
 .logo {
   font-family: Raleway;
-  font-weight: bold;
+  font-weight: 700px;
   font-size: 26px;
   line-height: 1.19;
-  /* identical to box height */
 
   letter-spacing: 0.03em;
+  display: inline;
 }
 
 .logo-web {
